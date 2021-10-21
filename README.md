@@ -1,2 +1,2 @@
-# code
-Compilation of Jupyter notebooks
+# Code
+Compilation of various Jupyter notebooks
